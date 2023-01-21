@@ -1,9 +1,11 @@
-### Hi there 👋
-
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<div align="center" style="text-align:center">
+<!-- 	# Hi, I'm CHAEYOON 👋 -->
+	  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:13547a,100:8E54E9&fontColor=f7f5f5&height=210&section=header&text=Chae%20yoon&fontSize=60&animation=fadeIn&fontAlignY=38&desc=developer&descAlignY=52&descAlign=62" width="85%">
+	***  
+	<h2>learning ✏️</h2>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </div>
 
 <!--
