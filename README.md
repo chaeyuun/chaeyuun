@@ -8,11 +8,11 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
 	<br>
-	<h2>Tools 🛠</h2>
+<!-- 	<h2>Tools 🛠</h2>
 	<img src="https://img.shields.io/badge/Git-F05032?style/badge&logo=Git&logoColor=white">
 	<img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style/badge&logo=Visual Studio Code&logoColor=white">
-	<img src="https://img.shields.io/badge/Postman-FF6C37?style/badge&logo=Postman&logoColor=white">
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style/badge&logo=Postman&logoColor=white"> -->
 </div>
 <p align="center">
   <a href="https://github.com/chaeyuun/github-readme-stats">
