@@ -19,6 +19,6 @@
     <br><br>
 <!-- 	  <img src="https://github-readme-stats.vercel.app/api?username=chaeyuun&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width:50%;"/> -->
 	  <img src="https://github-readme-stats.vercel.app/api?username=chaeyuun&theme=rose_pine&show_icons=true" style="width:50%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyuun&layout=compact&theme=react" style="width:40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyuun&layout=compact&theme=react" style="width:41%;"/>
   </a>
   </p>
